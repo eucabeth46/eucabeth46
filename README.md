@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&pause=1000&color=00FFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Eucabeth+Awino;A+Passionate+Data+Scientist+%26+Web+Developer;Currently+Learning+Python%2C+Kotlin%2C+ML;Loves+turning+data+into+insights+%F0%9F%93%8A" alt="Typing animation" />
 </p>
-
+---
 - 🔭 I’m currently learning **Python**, **Kotlin for mobile development**, and **Machine Learning**
 - 🌱 Passionate about **Data Science**, **AI**, and solving real-world problems
 - 🤝 Open to collaborating on **projects**, **hackathons**, and **open-source**
