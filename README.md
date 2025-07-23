@@ -32,15 +32,32 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
+---
+
+### ✨ Tech in Motion
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eucabeth46&show_icons=true&theme=radical" alt="eucabeth46's GitHub Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=eucabeth46&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 📊 GitHub Stats (Dark Mode)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eucabeth46&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=eucabeth46&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=eucabeth46&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucabeth46&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
