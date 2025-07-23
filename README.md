@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eucabeth Awino</h1>
 <h3 align="center">A Passionate Aspiring Data Scientist & Web Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=435&lines=👩‍💻+Lover+of+Code+%26+Data;🌍+Learning+Machine+Learning+%26+Python;📈+Exploring+Data+Visualization+%26+AI" alt="Typing SVG" />
-</p>
-
----
-
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently learning **Python, Kotlin for mobile development, and Machine Learning**
@@ -38,14 +32,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
-</p>
-
----
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eucabeth46&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
