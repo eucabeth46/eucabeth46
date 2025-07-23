@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Eucabeth Awino</h1>
 <h3 align="center">A Passionate Aspiring Data Scientist & Web Developer</h3>
 
-### 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-- 🔭 I’m currently learning **Python, Kotlin for mobile development, and Machine Learning**
-- 🌱 I’m passionate about **Data Science, AI, and solving real-world problems**
-- 🤝 I’m open to collaborating on **projects, hackathons, and open-source**
-- 📫 Reach me at: [bethawino2@gmail.com](mailto:bethawino2@gmail.com)
-- 💬 Ask me about: Data cleaning, visualization, Python, or Git
-- ⚡ Fun fact: I love turning raw data into beautiful dashboards 📊
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Eucabeth+Awino;A+Passionate+Data+Scientist+%26+Web+Developer;Currently+Learning+Python%2C+Kotlin%2C+ML;Loves+turning+data+into+insights+%F0%9F%93%8A" alt="Typing animation" />
+</p>
 
 ---
+
+- 🔭 I’m currently learning **Python**, **Kotlin for mobile development**, and **Machine Learning**
+- 🌱 Passionate about **Data Science**, **AI**, and solving real-world problems
+- 🤝 Open to collaborating on **projects**, **hackathons**, and **open-source**
+- 📫 Reach me at: [bethawino2@gmail.com](mailto:bethawino2@gmail.com)
+- 💬 Ask me about: **Data cleaning**, **visualization**, **Python**, or **Git**
+- ⚡ Fun fact: I love turning raw data into beautiful dashboards 📊
 
 ### 🛠️ Languages and Tools
 
