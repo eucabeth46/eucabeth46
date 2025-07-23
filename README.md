@@ -8,7 +8,7 @@
 - 🌱 Passionate about **Data Science**, **AI**, and solving real-world problems
 - 🤝 Open to collaborating on **projects**, **hackathons**, and **open-source**
 - 📫 Reach me at: [bethawino2@gmail.com](mailto:bethawino2@gmail.com)
-- 💬 Ask me about: **Data cleaning**, **visualization**, **Python**, or **Git**
+- 💬 Ask me about: **Data cleaning**, **visualization**,**Python**, or **Shiny dashboards in R**
 - ⚡ Fun fact: I love turning raw data into beautiful dashboards 📊
 - 
 ### 🛠️ Languages and Tools
